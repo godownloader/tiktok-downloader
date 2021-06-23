@@ -4,7 +4,7 @@ Download TikTok Video Watermark
 Free API to Download TikTok Video Without Watermak:
 
 ```
-GET: https://godownloader.com/api/tiktok-no-watermark-free?url=[tiktok_url]**&key=godownloader
+GET: https://godownloader.com/api/tiktok-no-watermark-free?url=[tiktok_url]&key=godownloader
 ```
 
 Replace **[tiktok_url]** by the tiktok video url you want to download.
