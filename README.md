@@ -16,7 +16,8 @@ GET: https://godownloader.com/api/tiktok-no-watermark-free?url=[tiktok_url]&key=
 ```
 
 - Replace **[tiktok_url]** by the tiktok video url you want to download.
-- Param **key=godownloader.com** is required
+- Param **key=godownloader.com** is required.
+
 eg: https://godownloader.com/api/tiktok-no-watermark-free?url=https://www.tiktok.com/@justinbieber/video/6943631942512315654&key=godownloader.com
 
 * Note that the rate limit of free api is 5 requests/30 minutes (for trial purpose only).
