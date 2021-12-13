@@ -21,7 +21,7 @@ GET: https://godownloader.com/api/tiktok-no-watermark-free?url=[tiktok_url]&key=
 - Param **key=godownloader.com** is required.
 - The rate limit of free api is 5 requests/30 minutes.
 
-eg: https://godownloader.com/api/tiktok-no-watermark-free?url=https://www.tiktok.com/@justinbieber/video/6943631942512315654&key=godownloader.com
+eg: https://godownloader.com/api/tiktok-no-watermark-free?url=https://vt.tiktok.com/ZSeftpKD6/&key=godownloader.com
 
 ---
 ### GoDownloader.com
